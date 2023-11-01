@@ -1,5 +1,9 @@
-# ManhattanPredictiveModel
+# University Data Analytics Projects
 
-This project was part of the 'Big Data and Predictive Analysis' year three module during my BSc Computer Science studies at the University of Leicester. 
+## Predictive Modelling
 
-The project consists of predicting the price of apartments from the Manhattan12.csv.
+In this directory you will find a project consisting of building a ML model to predict house prices in Manhattan.
+
+## Web Scraping
+
+A simple web scraping project revolving around food recipes.
